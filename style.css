@@ -438,6 +438,7 @@ span {
   }
   .properties ul li {
     display: block;
+    margin-right: 0;
   }
   .block-4 img {
     width: 250px;
