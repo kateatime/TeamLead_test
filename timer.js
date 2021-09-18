@@ -1,5 +1,5 @@
 function initializeTimer() {
-	var endDate = new Date(2021,2,20); // Нумерация месяца начинается с нуля
+	var endDate = new Date(2021,8,18); // Нумерация месяца начинается с нуля
  
 	var currentDate = new Date();
 	var seconds = (endDate-currentDate) / 1000;
